@@ -1,5 +1,2 @@
-spring
- application
-  name: user-micro-service
-username: chouhapr
-password: chouhapr
+user-micro-service.username: chouhapr
+user-micro-service.password: chouhapr
